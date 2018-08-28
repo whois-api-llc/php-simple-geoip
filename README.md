@@ -15,7 +15,7 @@ If you haven't done this yet, please do so now.
 To install `simple-geoip` using [composer](https://getcomposer.org/), simply run:
 
 ```console
-$ composer require whois-api-inc/simple-geoip
+$ composer require whois-api/simple-geoip
 ```
 In the root of your project directory.
 
@@ -23,7 +23,7 @@ In the root of your project directory.
 To use the library, use Composer's [autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading)
 
 ```php
-require_once('vendor/autoload');
+require_once __DIR__ . "/vendor/autoload.php";
 ```
 
 ## Requirements
