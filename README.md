@@ -4,8 +4,8 @@
 
 ## Prerequisites
 
-To use this library, you'll need to create a free GeoIPify account:
-https://geoipify.whoisxmlapi.com/
+To use this library, you'll need to create a free IP Geolocation account:
+https://ip-geolocation.whoisxmlapi.com/api
 
 If you haven't done this yet, please do so now.
 
@@ -84,7 +84,7 @@ try {
 ```
 More examples you can see in the "examples" directory. 
 
-Here's the sort of data you might get back when performing a geoip lookup
+Here's the sort of data you might get back when performing a ip geolocation lookup
 request:
 
 ```json
